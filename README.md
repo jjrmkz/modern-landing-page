@@ -1,7 +1,6 @@
 # Modern Business Landing Page
 
 ## 🌟 Features
-<hr>
 - Modern and clean design<br>
 - Fully responsive layout<br>
 - Smooth animations with Framer Motion<br>
