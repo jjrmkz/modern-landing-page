@@ -11,9 +11,11 @@
 - Pricing calculator<br>
 - Service showcase sections<br>
 
-## Built With
+## 🛠️ Built With
 - React.js<br>
 - Tailwind CSS<br>
 - Framer Motion<br>
 - Swiper.js<br>
 - React Icons<br>
+
+### Installation
