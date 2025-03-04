@@ -2,12 +2,12 @@
 
 # Features
 <hr>
-- Modern and clean design
-- Fully responsive layout
-- Smooth animations with Framer Motion
-- Interactive components
-- Testimonials carousel
-- Newsletter subscription form
-- Company logo showcase
-- Pricing calculator
-- Service showcase sections
+- Modern and clean design<br>
+- Fully responsive layout<br>
+- Smooth animations with Framer Motion<br>
+- Interactive components<br>
+- Testimonials carousel<br>
+- Newsletter subscription form<br>
+- Company logo showcase<br>
+- Pricing calculator<br>
+- Service showcase sections<br>
